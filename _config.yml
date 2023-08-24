@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dev Chheda"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "EECS Student at MIT"
   location         : "Cambridge, MA"
   employer         :
