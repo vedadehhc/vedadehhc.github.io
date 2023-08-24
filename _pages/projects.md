@@ -11,4 +11,5 @@ author_profile: true
 
 {% include base_path %}
 
-This page is currently a work-in-progress. For now, you can read about my projects on my [CV](/files/CV_Dev.pdf), my [LinkedIn]({{author.linkedin}}), or my [GitHub]({{author.github}}).
+This page is currently a work-in-progress. For now, you can read about my projects on my [CV](/files/CV_Dev.pdf), <a href="{{author.linkedin}}">LinkedIn</a>,
+[LinkedIn]({{author.linkedin}}), or [GitHub]({{author.github}}).
