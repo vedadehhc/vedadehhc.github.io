@@ -55,6 +55,6 @@ author_profile: true
 
 ### Clustering and Network Algorithms to Address Gerrymandering
 - **Duration:** Sep 2018 - May 2019
-- **Links:** [Summary](#), [Interview](#)
+- **Links:** No links provided in CV
 
-For more information, you can read about my projects on my [CV](/files/CV_Dev.pdf), [LinkedIn](https://linkedin.com/in/dev-chheda-6497bb1a7), or [GitHub](https://github.com/vedadehhc).
+For more information, you can read about my projects on my [CV](/files/Dev_Chheda_CV_Fall_2023.pdf), [LinkedIn](https://linkedin.com/in/dev-chheda-6497bb1a7), or [GitHub](https://github.com/vedadehhc).
